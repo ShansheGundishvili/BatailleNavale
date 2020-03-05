@@ -3,4 +3,4 @@ project(BatailleNavale C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(BatailleNavale main.c)
+add_executable(BatailleNavale main.c BN_Gameplay.c)
